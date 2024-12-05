@@ -1,5 +1,8 @@
-i still need to consider the file usc42.xml
+first attempt:https://uscode.house.gov/download/download.shtml
+format too hard to decode
 
-Download link https://uscode.house.gov/download/releasepoints/us/pl/118/136/xml_uscAll@118-136.zip
+second attempt:https://www.kaggle.com/datasets/shivamb/legal-citation-text-classification/data
 
-https://uscode.house.gov/download/download.shtml
+other possibilities:
+https://www.kaggle.com/datasets/amohankumar/legal-text-classification-dataset
+https://osf.io/qa289 and https://www.nature.com/articles/s41597-023-02758-z
