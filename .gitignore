@@ -1,2 +1,6 @@
 # Ignore everything in the .vscode folder
 .vscode/*
+
+*.log
+
+data/legal_documents/preprocessed_dataframe.csv
